@@ -1,0 +1,4 @@
+repo=OrMizrahi12/argus-wgs-movers-d2-r16-09e1803396-concept
+cleared_at_utc=2026-05-19T09:09:14.503802+00:00
+action=disable_pages_and_force_push_minimal_main
+protocol=WGS
